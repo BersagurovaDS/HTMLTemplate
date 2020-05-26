@@ -1,0 +1,1 @@
+окно . addEventListener ( 'load' ,  ( )  =>  console . log ( "Doument загружен. JavaScript включен." ) )
